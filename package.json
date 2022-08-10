@@ -1,0 +1,15 @@
+{
+  "name": "slackapi",
+  "version": "1.0.0",
+  "description": "create data for performance testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^6.7.2",
+    "node-fetch": "^3.2.9"
+  }
+}

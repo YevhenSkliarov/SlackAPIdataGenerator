@@ -1,0 +1,11 @@
+module.exports = {
+    token: 'token',
+    team_id: 'teamid',
+    name: 'test_channel',
+    is_private: false,
+    count_of_public_channels: 50,
+    count_of_private_channels: 50,
+    message_count: 90,
+    files_count: 15,
+    message: "596798ce-3b6f-11e6-a8e1-847beb0fbe8b	Some Body	Else	2005-09-24	2017-02-07 12:14:44	2017-02-07 12:14:44	Israel	5eb0c9f8-4291-11e6-bdeb-847beb0fbe8b	Plony	Almony	2008-05-01	2017-02-07 12:14:45	2017-02-07 12:14:45	IL	5eb0ca0b-4291-11e6-bdeb-847beb0fbe8b	Princess	Shir	2012-08-04	2017-02-07 12:14:45	2017-02-07 12:14:45	IL	5eb0ca0f-4291-11e6-bdeb-847beb0fbe8b	Boots	Monkey	2016-01-01	2017-02-07 12:14:46	2017-02-07 12:14:46	IL	949-96-7461	Lizzie M.	Peters	1961-11-11	2017-02-07 12:14:45	2017-02-07 12:14:45	CA	96664431416573956	Rodney R.	Hines	1960-02-22	2017-02-07 12:14:46	2017-02-07 12:14:46	RU	04969 989-00-2795	Donald G.	Myers	2008-05-01	2017-02-07 12:14:45	2017-02-07 12:14:45	IL	dfb908bf-3b6e-11e6-a8e1-847beb0fbe8b	Some	Body	2002-11-23	2017-02-07 12:14:46	2017-02-07 12:14:46	IL"
+}
