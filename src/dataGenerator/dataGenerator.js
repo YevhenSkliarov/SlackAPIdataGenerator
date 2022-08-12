@@ -65,8 +65,8 @@ async function getMessagesCount(channelsIdList){
 }
 
 async function generateData(config = {}, messages = false ){
-    //addPublicChannels(config);
-    //addPrivateChannels(config);
+    addPublicChannels(config);
+    addPrivateChannels(config);
     const result = await getChannelsIdList();
     if(messages){
         await getMessagesCount(result)
